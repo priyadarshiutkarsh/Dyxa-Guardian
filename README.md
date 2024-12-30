@@ -91,7 +91,7 @@ Dyxa Guardian can detect a wide range of security issues, including:
 
 ## 📊 Screenshot of Gradio Interface
 
-![Gradio Interface Screenshot]([interface.png)
+![Gradio Interface Screenshot](https://raw.githubusercontent.com/priyadarshiutkarsh/Dyxa-Guardian/main/interface.png)
 
 ## 🤝 Contributing
 
