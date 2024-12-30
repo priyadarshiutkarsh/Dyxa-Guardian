@@ -1,0 +1,17 @@
+cerebras_cloud_sdk
+python-dotenv
+networkx
+matplotlib
+gradio
+requests
+plotly
+esprima
+javaparser
+cppcheck
+javalang
+pycparser
+pyjsparser
+radon
+Flask-SQLAlchemy
+fpdf
+coverage
