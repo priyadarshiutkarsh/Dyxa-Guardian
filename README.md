@@ -1,4 +1,3 @@
-```markdown
 # Dyxa Guardian
 
 **Dyxa Guardian** is a powerful code security analyzer designed to help developers identify vulnerabilities in their code. It supports multiple programming languages and provides detailed reports on security issues, making it an essential tool for secure software development.
@@ -123,6 +122,4 @@ For questions or feedback, feel free to reach out:
 
 - **Email**: priyadarshiutkarshofficial@gmail.com
 - **GitHub**: [priyadarshiutkarsh](https://github.com/priyadarshiutkarsh)
-```
 
----
