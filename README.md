@@ -71,7 +71,7 @@ dyxa-guardian/
 ├── config.py                  # Configuration settings
 ├── requirements.txt           # List of required Python packages
 ├── README.md                  # Project documentation
-├── .env.example               # Template for environment variables
+├── interface.png              # Image of Dyxa interface
 └── .gitignore                 # Files and directories to ignore in version control
 ```
 
